@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "id": "auto_switch",
+      "name": "Auto Switch",
+      "version": "1.0.0",
+      "author": "ТВОЙ_НИК",
+      "description": "Автоматически переключает на следующий сервер, если текущий перестал отвечать.",
+      "download_url": "https://github.com/ilya2560/happy-plugins/raw/main/auto_switch.zip",
+      "verified": false
+    }
+  ]
+}
